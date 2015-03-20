@@ -1,4 +1,4 @@
-package ohtuesimerkki;
+package main.java.ohtuesimerkki;
 
 import java.util.ArrayList;
 import java.util.Collections;

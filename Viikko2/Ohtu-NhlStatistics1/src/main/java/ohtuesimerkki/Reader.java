@@ -1,4 +1,4 @@
-package ohtuesimerkki;
+package main.java.ohtuesimerkki;
 
 import java.util.List;
 /**
