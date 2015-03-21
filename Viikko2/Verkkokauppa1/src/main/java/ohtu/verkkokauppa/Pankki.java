@@ -1,6 +1,6 @@
-package ohtu.verkkokauppa;
+package main.java.ohtu.verkkokauppa;
 
-public class Pankki {
+public class Pankki implements PankkiInterface {
 
     private static Pankki instanssi;
 

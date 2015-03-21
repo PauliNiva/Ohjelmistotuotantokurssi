@@ -1,5 +1,5 @@
 
-package ohtu.verkkokauppa;
+package main.java.ohtu.verkkokauppa;
 
 public class Tuote {
     private int id;

@@ -1,4 +1,4 @@
-package ohtu.verkkokauppa;
+package main.java.ohtu.verkkokauppa;
 
 public class Kauppa {
 
@@ -8,10 +8,10 @@ public class Kauppa {
     private Viitegeneraattori viitegeneraattori;
     private String kaupanTili;
 
-    public Kauppa() {
-        varasto = Varasto.getInstance();
-        pankki = Pankki.getInstance();
-        viitegeneraattori = Viitegeneraattori.getInstance();
+    public Kauppa(VarastoInterface varastoInterface, PankkiInterface pankkiInterface, ViitegeneraattoriInterface viitegeneraattoriInterface) {
+        this.varasto = (Varasto) varastoInterface;
+        this.pankki = (Pankki) pankkiInterface;
+        this.viitegeneraattori = (Viitegeneraattori) viitegeneraattoriInterface;
         kaupanTili = "33333-44455";
     }
 

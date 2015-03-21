@@ -1,4 +1,4 @@
-package ohtu.verkkokauppa;
+package main.java.ohtu.verkkokauppa;
 
 import java.util.ArrayList;
 
