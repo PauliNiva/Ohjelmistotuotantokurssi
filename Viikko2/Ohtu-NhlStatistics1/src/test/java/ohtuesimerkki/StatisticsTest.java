@@ -42,4 +42,10 @@ public class StatisticsTest {
         assertEquals("Gretzky", topScorers.get(0).getName());
         assertEquals("Lemieux", topScorers.get(1).getName());
     }
+
+    @org.junit.Test
+    public void testTopScorersMaara() {
+        List<Player> topScorers = statistics.topScorers(2);
+        assertEquals(2, topScorers.size());
+    }
 }
