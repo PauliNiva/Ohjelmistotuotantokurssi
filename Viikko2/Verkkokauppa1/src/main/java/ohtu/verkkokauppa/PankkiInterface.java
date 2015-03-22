@@ -1,4 +1,4 @@
-package main.java.ohtu.verkkokauppa;
+package ohtu.verkkokauppa;
 
 /**
  * Created by Pauli Niva on 21/03/2015.
