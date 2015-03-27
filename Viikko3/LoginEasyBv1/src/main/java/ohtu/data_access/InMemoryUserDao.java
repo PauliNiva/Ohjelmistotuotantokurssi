@@ -1,11 +1,9 @@
 package ohtu.data_access;
 
 import ohtu.domain.User;
-import org.springframework.stereotype.Component;
 import java.util.ArrayList;
 import java.util.List;
 
-@Component
 public class InMemoryUserDao implements UserDao {
 
     private List<User> users;
