@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c560aa54-f286-4fe1-bce5-ddacdcf72c69" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Viikko4/muutos.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Viikko4/muutos1.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Viikko4/muutos.txt" afterPath="$PROJECT_DIR$/Viikko4/muutos.txt" />
     </list>
     <ignored path="Ohjelmistotuotantokurssi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/Viikko4/muutos.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -55,6 +54,7 @@
         <option value="$PROJECT_DIR$/Viikko4/Verkkokauppa4/src/test/java/ohtu/KauppaTest.java" />
         <option value="$PROJECT_DIR$/Viikko4/tagi1lisays1" />
         <option value="$PROJECT_DIR$/Viikko4/muutos1.txt" />
+        <option value="$PROJECT_DIR$/Viikko4/muutos.txt" />
       </list>
     </option>
   </component>
@@ -538,12 +538,12 @@
       <updated>1428753802769</updated>
       <workItem from="1428753804206" duration="8891000" />
       <workItem from="1428771255590" duration="57000" />
-      <workItem from="1428771418331" duration="868000" />
+      <workItem from="1428771418331" duration="901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9816000" />
+    <option name="totallyTimeSpent" value="9849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -770,7 +770,7 @@
     <entry file="file://$PROJECT_DIR$/Viikko4/muutos.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>
