@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c560aa54-f286-4fe1-bce5-ddacdcf72c69" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Viikko4/muutos1.txt" afterPath="$PROJECT_DIR$/Viikko4/muutos1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Viikko4/muutos.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Viikko4/muutos1.txt" afterPath="" />
     </list>
     <ignored path="Ohjelmistotuotantokurssi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="muutos1.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Viikko4/muutos1.txt">
+      <file leaf-file-name="muutos.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Viikko4/muutos.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -537,12 +538,12 @@
       <updated>1428753802769</updated>
       <workItem from="1428753804206" duration="8891000" />
       <workItem from="1428771255590" duration="57000" />
-      <workItem from="1428771418331" duration="820000" />
+      <workItem from="1428771418331" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9768000" />
+    <option name="totallyTimeSpent" value="9816000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -620,7 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Viikko4/muutos1.txt">
+    <entry file="file://$PROJECT_DIR$/Viikko4/muutos.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -670,7 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Viikko4/muutos1.txt">
+    <entry file="file://$PROJECT_DIR$/Viikko4/muutos.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
@@ -766,10 +767,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Viikko4/muutos1.txt">
+    <entry file="file://$PROJECT_DIR$/Viikko4/muutos.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>
