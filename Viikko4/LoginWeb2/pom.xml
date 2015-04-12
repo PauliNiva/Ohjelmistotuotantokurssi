@@ -201,15 +201,10 @@
                 <artifactId>jetty-maven-plugin</artifactId>
                 <version>7.4.2.v20110526</version>
                 <configuration>
-                    <!--
-                    
-                    POISTA NÄMÄ KOMMENTEISTA
-                    jos haluat että jetty käynnistää sovelluksen uudelleen 
-                    muutosten yhteydessä
-                    
+
                     <scanIntervalSeconds>5</scanIntervalSeconds>
                     <reload>automatic</reload>
-                    -->
+
                     <systemProperties>
                         <systemProperty>
                             <name>jetty.port</name>

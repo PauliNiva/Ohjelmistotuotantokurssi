@@ -11,14 +11,14 @@ public class Tester {
 
         driver.get("http://localhost:8090");
         System.out.println(driver.getPageSource());
-        WebElement element = driver.findElement(By.linkText("login"));       
+        WebElement element = driver.findElement(By.linkText("login"));
         element.click();
 
         System.out.println("==");
 
 
         System.out.println("==");
-        System.out.println( driver.getPageSource() );
+        System.out.println(driver.getPageSource());
         element = driver.findElement(By.name("username"));
         element.sendKeys("pekka");
         element = driver.findElement(By.name("password"));
@@ -27,9 +27,9 @@ public class Tester {
         element.submit();
 
         System.out.println("==");
-        System.out.println( driver.getPageSource() );
+        System.out.println(driver.getPageSource());
         element = driver.findElement(By.name("username"));
-        element.sendKeys("väärä");
+        element.sendKeys("antti");
         element = driver.findElement(By.name("password"));
         element.sendKeys("akkep");
         element = driver.findElement(By.name("login"));
@@ -42,7 +42,7 @@ public class Tester {
         element = driver.findElement(By.linkText("register new user"));
         element.click();
         element = driver.findElement(By.name("username"));
-        element.sendKeys("pauli");
+        element.sendKeys("norma");
         element = driver.findElement(By.name("password"));
         element.sendKeys("salasan4");
         element = driver.findElement(By.name("passwordConfirmation"));
@@ -62,7 +62,7 @@ public class Tester {
         System.out.println(driver.getPageSource());
 
         System.out.println("==");
-        System.out.println( driver.getPageSource() );
+        System.out.println(driver.getPageSource());
 
     }
 }
