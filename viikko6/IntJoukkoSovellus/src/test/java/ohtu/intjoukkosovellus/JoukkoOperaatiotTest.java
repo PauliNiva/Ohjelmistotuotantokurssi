@@ -10,7 +10,7 @@ public class JoukkoOperaatiotTest {
     
     
     @Test
-    public void testSomething() {
+    public void testYhdiste() {
         IntJoukko eka = teeJoukko(1,2);
         IntJoukko toka = teeJoukko(3,4);
         
