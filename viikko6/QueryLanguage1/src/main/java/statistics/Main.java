@@ -13,5 +13,16 @@ public class Main {
         for (Player player : stats.matches(m)) {
             System.out.println( player );
         }
+
+        Rakentaja rakentaja = new Rakentaja();
+
+        Matcher m2 = rakentaja.playsIn("NYR")
+                .hasAtLeast(10, "goals")
+                .hasFewerThan(25, "assists").build();
+
+        System.out.println("\nRakentajan testi:");
+        for (Player player : stats.matches(m2)) {
+            System.out.println(player);
+        }
     }
 }
