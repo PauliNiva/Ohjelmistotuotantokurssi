@@ -1,0 +1,12 @@
+Onko suunnittelu kuollut? - Martin Fowler
+
+Martin Fowler ottaa kantaa suunnitteluun XP:n näkökulmasta, mutta hänen ajatuksensa voidaan yleistää kaikkiin ketteriin menetelmiin. XP:ssä ei tehdä ennakolta suuria suunnitelmia vaan suunnitelma kehittyy ohjelman tekemisen yhteydessä. 
+Tässä suunnittelumallissa suunnitelmaa kehitetään ja muokataa kaikissa tuotannon eri vaiheissa koko ohjelmiston elinkaaren ajan. Tärkeä tekijä suunnitelmien joustavalle muokkaamiselle on jatkuva integraatio, testaus ja koodin järjestelmällinen refaktorointi. Perinteisen suunnittelun ongelmia ovat esimerkiksi se, että varautuminen kaikkiin tilanteisiin on mahdotonta ja suunnittelijan luomat vaatimukset ja etenkin toiveet eivät välttämättä ole selkeitä ohjelman tekijöille.
+Martin esittelee XP:n suunnittelumallin käyttöä. Esimerkiksi koodin tulisi olla mahdollisimman selkeää ja yksinkertaista. Ohjelmoijalla tulisi olla tietoa eri suunnittelumalleista sekä siitä koska niitä tulee käyttää. Ohjelmoijan on hyvä myös pitää tulevaisuus ja kokonaiskuva mielessä tehdessään päätöksiä, sekä keskustella suunnitelmista ja jakaa tietoa myös muille.
+
+
+
+Metriikat käytänteiden tukena ohjelmiston laadun arvioimisessa - Kasper Hirvikoski
+
+Tutkielmassa keskitytään ohjelmistojen laadukkaan kehittämisen haasteisiin ja miten nämä saadaan suoritettua. Laadun arviointikriteereihin kuuluvat muun muassa riippuvuudet, testaus ja itse koodi. Metriikat ovat yksi tapa arvioida laatua esimerkiksi verkkoanalyysin avulla. Testaukseen löytyy metriikoita kuten mutaatiotestaus ja esimerkiksi parikoodauksella saavutetaan jatkuvaa ja reaaliaikaista katselmusta. Kuitenkin hyvän ja laadukkaan ohjelmiston aikaansaamiseksi vaaditaan kehittäjien panostusta käytänteisiin. Ketterä kehitys esitetään jumalallisena käytäntönä laadun varmistamiseen. Ulkoinen ja sisäinen laatu lähtee siitä, että ohjelmisto suunnitellaan, toteutetaan ja testataan käyttäen hyväksi todettuja ohjelmointitapoja ja malleja, kuten tutkielmassa todetaan.
+
